@@ -1,2 +1,3 @@
 # hello-world
 First repository tutorial...
+I am from Canada and am just starting to get to know GitHub
